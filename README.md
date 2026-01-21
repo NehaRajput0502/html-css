@@ -1,6 +1,6 @@
 # HTML-CSS
 
-## first-web-page
+## 1.first-web-page
 
 ```
 /first-web-page/.
@@ -8,4 +8,24 @@
 ├── style.css
 ```
 
-## workflow-tools
+## Workflow Tools
+
+Folder Structure
+
+```
+/my-website/.
+├── README.md
+├── index.html
+├── about.html
+├── css/.
+|    ├── styles.css
+|    └── utilities.css
+├── images/.
+|    └── logo.svg
+└──  components/.
+      ├── header.html   
+      └── footer.html
+
+
+
+```
