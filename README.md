@@ -1,9 +1,11 @@
-# html-css
-## first-web-page
-Directory now looks like:
+# HTML-CSS
 
-first-web-page/
-  first.html
-  style.css
+## first-web-page
+
+```
+/first-web-page/.
+├── first.html
+├── style.css
+```
 
 ## workflow-tools
